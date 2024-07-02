@@ -4,19 +4,19 @@
 
 ## FRONTEND DEVELOPER
 
-![pfp](/img/photo_2024-02-06_21-53-51)
+![pfp](/img/Users/Nikita/Pictures/Saved Pictures/me/photo_2024-02-06_21-53-51)
 
 ----------------
 
 ## EDUCATION
 
-### POTI №15 MIDDLE SCHOOL
+<p>POTI №15 MIDDLE SCHOOL</p>
 
-### VOCATIONAL COLLEGE "Phazisi", IT Support
+<p>VOCATIONAL COLLEGE "Phazisi", IT Support</p>
 
 ----------------
 
 ## EXPERIENCE
 
-### "EuropeSIM" SYSTEM ADMINISTRATOR
+<p>"EuropeSIM" SYSTEM ADMINISTRATOR</p>
 

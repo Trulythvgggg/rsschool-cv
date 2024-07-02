@@ -1,8 +1,8 @@
-## HELLO! I'M
+<p>HELLO! I'M</p>
 
 # Nikita Gadzhiev
 
-## FRONTEND DEVELOPER
+<p>FRONTEND DEVELOPER</p>
 
 ![pfp](/img/Users/Nikita/Pictures/Saved Pictures/me/photo_2024-02-06_21-53-51)
 

@@ -4,7 +4,7 @@
 
 <p>FRONTEND DEVELOPER</p>
 
-![pfp](/img/Users/Nikita/Pictures/Saved Pictures/me/photo_2024-02-06_21-53-51)
+![profile picture](/me/photo_2024-02-06_21-53-51.jpg)
 
 ----------------
 

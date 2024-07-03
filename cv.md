@@ -28,13 +28,12 @@
 
 <p>"EuropeSIM" SYSTEM ADMINISTRATOR</p>
 
-<code>
+``` 
 
 function multiply(a, b){
  return a * b
 }
-
-</code>
+```
 
 [PROJECT](https://Trulythvgggg.github.io/rsschool-cv/cv "PROJECT EXAMPLE")
 

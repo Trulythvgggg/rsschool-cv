@@ -33,6 +33,7 @@
 function multiply(a, b){
  return a * b
 }
+
 ```
 
 [PROJECT](https://Trulythvgggg.github.io/rsschool-cv/cv "PROJECT EXAMPLE")

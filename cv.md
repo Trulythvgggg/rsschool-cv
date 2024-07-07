@@ -4,7 +4,7 @@
 
 <p>FRONTEND DEVELOPER</p>
 
-![profile picture](/me/photo_2024-02-06_21-53-51.jpg "pfp")
+![profile picture](/img/photo_2024-02-06_21-53-51.jpg "pfp")
 
 <p>CONTACT INFORMATION</p>
 
